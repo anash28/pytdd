@@ -1,7 +1,7 @@
 
-### Overview:Notes taken while reading TDD Python by Harry Percival
-### Author: Alfredzo Nash
-### Date: 24.MAR.16
+###### Overview:Notes taken while reading TDD Python by Harry Percival
+###### Author: Alfredzo Nash
+###### Date: 24.MAR.16
 
 
 ###### CH. 1 Getting Django Set Up Using a Functional Test
