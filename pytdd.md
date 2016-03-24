@@ -19,8 +19,8 @@ goes smoothly.
 > Or it may be a real bug. Be tenacious, read the error message carefully (see my
 aside on reading tracebacks a little later on in the chapter), and you'll
 get to the bottom of it. It's probably just missing a comma, or trailing-slash,
-or maybe a missing "s" in once of the Selemium find methods.
-> But, as ```python Zed Shaw ``` put it so well, this kind of debugging is also
+or maybe a missing "s" in once of the Selenium find methods.
+> But, as ``` Zed Shaw ``` put it so well, this kind of debugging is also
 an absolute vital part of learning, so do stick it out!
 
 [TDD Google Group](http://groups.google.com/forum#!forum/obey-the-testing-goat-book)
