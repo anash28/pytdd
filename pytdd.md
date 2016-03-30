@@ -61,18 +61,6 @@ If you are interested, you can look up the finer points of the discussion in the
 
 [Django FAQ](https://docs.djangoproject.com/en/1.8/faq/general)
 
-```python 
-from django.core.urlresolvers import resolve
-from django.test import TestCase
-from lists.views import home_page
-
-# Create your tests here.
-class HomePageTest(TestCase):
-    def test_root_url_resolves_to_home_page_view(self):
-        found = resolve('/')
-        self.assertEqual(found.func, home_page)
-
-```
 ###### CH. 4 What Are We Doing with All These Tests?
 
 ###### CH. 5  Saving User Input.
